@@ -1,4 +1,4 @@
 # Railstutorial
 
-Container of all chapter from
+Container of all chapters from the
 [railstutorial](http://http://ruby.railstutorial.org/)
