@@ -7,3 +7,5 @@ config/google_analytics.yml
 .DS_Store
 /nbproject/
 public/assets/**
+\#*
+\.\#*
